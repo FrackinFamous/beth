@@ -20,8 +20,7 @@
     "bun": "^1.0.29",
     "bun-types": "latest",
     "drizzle-kit": "^0.20.14",
-    "drizzle-orm": "^0.29.4",
-    "typed-html": "^3.0.1"
+    "drizzle-orm": "^0.29.4"
   },
   "module": "src/index.js"
 }
